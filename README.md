@@ -28,7 +28,7 @@ Sendo que 1! e 0! são iguais a 1. Assim, 5! é igual a :
 
 - São declaras as variáveis do tipo inteiro: numero e resultado, das quais "numero" representa o valor do qual queremos calcular o fatorial, e o "resultado" a qual receberá o retorno da função Calcular(). 
 
-- Na função Calcular() é recebido como parâmetro a variável "numero", onde fatoração ocorrerá por recursividade, ou seja a função é chamada dentro dela mesma até que haja um condição de parada, neste caso será o caso "base", onde numero é igual a 0 ou 1, conforme o trecho de código abaixo:
+- Na função Calcular() é recebido como parâmetro a variável "numero", onde a fatoração ocorrerá por recursividade, ou seja a função é chamada dentro dela mesma até que haja um condição de parada, neste caso será o caso "base", onde numero é menor ou igual a 1, conforme o trecho de código abaixo:
 ```
 if (numero <= 1)
 {
