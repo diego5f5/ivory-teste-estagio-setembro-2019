@@ -1,0 +1,7 @@
+C:\Users\diego\Desktop\Questao_2_IVORY\Questao_2_IVORY\bin\Debug\Questao_2_IVORY.exe.config
+C:\Users\diego\Desktop\Questao_2_IVORY\Questao_2_IVORY\bin\Debug\Questao_2_IVORY.exe
+C:\Users\diego\Desktop\Questao_2_IVORY\Questao_2_IVORY\bin\Debug\Questao_2_IVORY.pdb
+C:\Users\diego\Desktop\Questao_2_IVORY\Questao_2_IVORY\obj\Debug\Questao_2_IVORY.csprojAssemblyReference.cache
+C:\Users\diego\Desktop\Questao_2_IVORY\Questao_2_IVORY\obj\Debug\Questao_2_IVORY.csproj.CoreCompileInputs.cache
+C:\Users\diego\Desktop\Questao_2_IVORY\Questao_2_IVORY\obj\Debug\Questao_2_IVORY.exe
+C:\Users\diego\Desktop\Questao_2_IVORY\Questao_2_IVORY\obj\Debug\Questao_2_IVORY.pdb
